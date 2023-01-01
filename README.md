@@ -19,7 +19,7 @@ The project contains 3 parts :
 https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
 
 # YOU CAN TEST THE APPLICATION ONLINE : 
- https://app-streamlit-immo.herokuapp.com/
+  https://app-streamlit-immo.herokuapp.com/
 
 # DATA COLLECTION
 
