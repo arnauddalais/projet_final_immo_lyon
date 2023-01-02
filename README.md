@@ -13,7 +13,7 @@ The project contains 3 parts :
 - Machine learning
 - App : deployment of 2 apps
 
-# PRESENTATION LINK (VIDEO) : *************************
+# PRESENTATION LINK (VIDEO) : https://share.vidyard.com/watch/JopN8wrYMWxEDjFKruDaDL
 # PRESENTATION PPTX : Projet immobilier Lyon.pptx
 # DEMODAY REPLAY ON YOUTUBE : 
 https://www.youtube.com/watch?v=Hbn9JkuRaWk (read from 39 minutes)
